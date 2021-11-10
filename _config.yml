@@ -80,13 +80,13 @@ analytics:
 # Site Author
 author:
   name             : "Cheng Tan"
-  avatar           : # "profile.png"
+  #avatar           : # "profile.png"
   bio              : # "Your biography for the left-hand sidebar"
   location         : "Richland, WA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NUbYZ50AAAAJ&hl=en"
-  email            :
+  email            : cheng.tan@pnnl.gov
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
