@@ -16,7 +16,7 @@ I received my Ph.D. from National University of Singapore (2018) and B.E. from S
 - Spatial Accelerator
 - Network-on-Chip
 
-Selected Publications
+Publications
 ------
 - **DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.** <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Seoul, South Korea, February 2022.
 - **DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.** <u>Cheng Tan</u>, Tong Geng, Chenhao Xie, Nicolas Bohm Agostini, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 39th IEEE International Conference on Computer Design (**ICCD**), October 2021. <span style="color:red">**Best Paper Award**</span>.
