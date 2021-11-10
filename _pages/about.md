@@ -17,7 +17,7 @@ I received my Ph.D. from National University of Singapore (2018) and B.E. from S
 - Network-on-Chip
 
 Selected Publications
-======
+------
 - **DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.** <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Seoul, South Korea, February 2022.
 - **DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.** <u>Cheng Tan</u>, Tong Geng, Chenhao Xie, Nicolas Bohm Agostini, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 39th IEEE International Conference on Computer Design (**ICCD**), October 2021. <span style="color:red">**Best Paper Award**</span>.
 - **I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization.** Tong Geng, Chunshu Wu, Yongan Zhang, <u>Cheng Tan</u>, Chenhao Xie, Haoran You, Martin Herbordt, Yingyan Lin, Ang Li. 54th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Athens, Greece, Oct 16-20, 2021.
@@ -39,7 +39,7 @@ Selected Publications
 - **Approximation-Aware Scheduling on Heterogeneous Multi-core Architectures.** <u>Cheng Tan</u>, Thannirmalai Somu Muthukaruppan, Tulika Mitra, Lei Ju. 20th Asia and South Pacific Design Automation Conference (**ASP-DAC**), January 2015.
 
 Open-Source Projects
-======
+------
 - [OpenCGRA2](https://github.com/tancheng/OpenCGRA2), a unified CGRA framework.
 - [CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper), an LLVM pass that generates CDFG and maps them onto a customizable CGRA.
 - [OpenCGRA](https://github.com/pnnl/opencgra), a unified CGRA framework.
