@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD from National University of Singapore (2018) and B.E. from Shandong University, both in Computer Science. I worked as a postdoctoral associate at Cornell University in 2019. My research interests are many-core architecture, hardware/software co-design, spatial accelerator, and network-on-chip. I am currently working at Pacific Northwest National Laboratory. 
+I received my Ph.D. from National University of Singapore (2018) and B.E. from Shandong University (2013), both in Computer Science. I worked as a postdoctoral associate at Cornell University in 2019. I am currently working at Pacific Northwest National Laboratory. My research interests include:
+- Many-Core Architecture
+- Hardware/Software Co-Design
+- Spatial Accelerator
+- Network-on-Chip
 
 Selected Publications
 ======
