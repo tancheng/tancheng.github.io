@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Cheng Tan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cheng Tan"
 #description              : &description "personal description"
