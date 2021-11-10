@@ -79,8 +79,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cheng Tan"
-  #avatar           : # "profile.png"
+  name             : # "Cheng Tan"
+  avatar           : # "profile.png"
   bio              : # "Your biography for the left-hand sidebar"
   location         : "Richland, WA"
   employer         :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tancheng"
+  github           : "tancheng"
   google_plus      :
   keybase          :
   instagram        :
