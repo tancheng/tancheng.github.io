@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,76 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a postdoctoral associate in Pacific Northwest National Laboratory. My research interests are many-core architecture, hardware/software co-design, spatial accelerator, and network-on-chip.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.** <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Seoul, South Korea, February 2022
+- **(Best Paper Award) DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.** <u>Cheng Tan</u>, Tong Geng, Chenhao Xie, Nicolas Bohm Agostini, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 39th IEEE International Conference on Computer Design (**ICCD**), October 2021
+- **I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization.** Tong Geng, Chunshu Wu, Yongan Zhang, \ul{Cheng Tan}, Chenhao Xie, Haoran You, Martin Herbordt, Yingyan Lin, Ang Li. 54th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Athens, Greece, Oct 16-20, 2021
+- **(Invited) OpenCGRA: Democratizing Coarse-Grained Reconfigurable Arrays.** \ul{Cheng Tan}, Nicolas Bohm Agostini, Jeff Zhang, Marco Minutoli, Vito Giovanni Castellana, Chenhao Xie, Tong Geng, Ang Li, Kevin Barker, Antonino Tumeo. The 32nd IEEE International Conference on Application-specific Systems, Architectures and Processors (**ASAP**), A Virtual Conference, July 7-8, 2021
+- **(Invited) Towards Automatic and Agile AI/ML Accelerator Design with End-to-End Synthesis.** Jeff (Jun) Zhang, Nicolas Bohm Agostini, Shihao Song, \ul{Cheng Tan}, Ankur Limaye, Vinay Amatya, Joseph Manzano, Marco Minutoli, Vito Giovanni Castellana, Antonino Tumeo, Gu-Yeon Wei, David Brooks. The 32nd IEEE International Conference on Application-specific Systems, Architectures and Processors (**ASAP**), A Virtual Conference, July 7-8, 2021
+- **ARENA: Asynchronous Reconfigurable Accelerator Ring to Enable Data-Centric Parallel Computing.** \ul{Cheng Tan}, Chenhao Xie, Tong Geng, Andres Marquez,  Antonino Tumeo, Kevin Barker, Ang Li. IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2021
+- **AURORA: Automated Refinement of Coarse-Grained Reconfigurable Accelerators.** \ul{Cheng Tan}, Chenhao Xie, Ang Li, Kevin Barker, Antonino Tumeo. Design, Automation \& Test in Europe Conference \& Exhibition (**DATE**), 2021
+- **Ultra-Elastic CGRAs for Irregular Loop Specialization.** Christopher Torng, Peitian Pan, Yanghui Ou, \ul{Cheng Tan}, Christopher Batten. 27th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Seoul 2021
+- **(Invited) SODA: A New Synthesis Infrastructure for Agile Hardware Design of Machine Learning Accelerators.** Marco Minutoli , Vito Giovanni Castellana, Cheng Tan, Joseph Manzano, Vinay Amatya, Antonino Tumeo, David Brooks, Gu-Yeon Wei. 2020 International Conference On Computer Aided Design (**ICCAD**), November 2020
+- **OpenCGRA: An Open-Source Unified Framework for Modeling, Testing, and Evaluating CGRAs.** \ul{Cheng Tan}, Chenhao Xie, Ang Li, Kevin Barker, Antonino Tumeo. The 38th IEEE International Conference on Computer Design (**ICCD**), October 2020
+- **CQNN: a CGRA-based QNN Framework.** Tong Geng, Chunshu Wu, \ul{Cheng Tan}, Bo Fang, Ang Li, Martin Herbordt, 2020 IEEE High Performance Extreme Computing Conference (**HPEC**), Waltham, MA, USA. Sep 22-24, 2020
+- **PyOCN: A Unified Framework for Modeling, Testing, and Evaluating On-Chip Networks.** \ul{Cheng Tan}, Yanghui Ou, Shunning Jiang, Peitian Pan, Christopher Torng, Shady Agwa, Christopher Batten. 2019 IEEE International Conference on Computer Design (**ICCD**), November 2019
+- **Synergy: A HW/SW Framework for High Throughput CNNs on Embedded Heterogeneous SoC.** Guanwen Zhong, Akshat Dubey, \ul{Cheng Tan}, Tulika Mitra. ACM Transactions on Embedded Computing Systems (**TECS**), 2019
+- **(Thesis) Low-Power Many-Core Architectures for the Next Generation Wearables.** \ul{Cheng Tan}. National University of Singapore, Nov 2018
+- **Stitch: Fusible Heterogeneous Accelerators Enmeshed with Many-Core Architecture for Wearables.** \ul{Cheng Tan}, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. 45th ACM/IEEE International Symposium on Computer Architecture (**ISCA**), June 2018
+- **DNestMap: Mapping Deeply-Nested Loops on Ultra-Low Power CGRAs.** Manupa Karunaratne, \ul{Cheng Tan}, Aditi Kulkarni, Tulika Mitra, Li-Shiuan Peh. 55th ACM/IEEE Design Automation Conference (**DAC**), June 2018
+- **(Extended) LOCUS: Low-Power Customizable Many-Core Architecture for Wearables.** \ul{Cheng Tan}, Aditi Kulkarni, Vanchinathan Venkataramani, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. ACM Transactions on Embedded Computing Systems (**TECS**), 2018
+- **(Best Paper Nomination) LOCUS: Low-Power Customizable Many-Core Architecture for Wearables.** \ul{Cheng Tan}, Aditi Kulkarni, Vanchinathan Venkataramani, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. ACM International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (**CASES**), October 2016
+- **Approximation-Aware Scheduling on Heterogeneous Multi-core Architectures.** \ul{Cheng Tan}, Thannirmalai Somu Muthukaruppan, Tulika Mitra, Lei Ju. 20th Asia and South Pacific Design Automation Conference (**ASP-DAC**), January 2015
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Open-Source Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- [OpenCGRA2](https://github.com/tancheng/OpenCGRA2), a unified CGRA framework.
+- [CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper), an LLVM pass that generates CDFG and maps them onto a customizable CGRA.
+- [OpenCGRA](https://github.com/pnnl/opencgra), a unified CGRA framework.
+- [PyMTL3-net](https://github.com/cornell-brg/pymtl3-net), a unified NoC framework.
+- [ARENA](https://github.com/pnnl/arena), an asynchronous data-centric programming model.
 
-Site-wide configuration
+Academic Service
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **Program Committee**: CGRA4HPC'22, ICCAD'21, ICCD'21
+- **External Review Committee**: ASPLOS'22, HPCA'22
+- **Artifact Evaluation Committee**: PPOPP'21, MICRO'21
+- **Session Chair**: ICCAD'21, ICCD'21, ICCD'19
+- **Journal Reviewer**: TECS'22, MicroSI'21, TSUSC'21, TCAD'21, TPDS'21\&20, TACO'21, TNNLS'21\&20, PARCO'21\&20, TVLSI'22\&20
+- **Conference Reviewer**: IPDPS'22, ICCAD'21, ICCD'21, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16
+- **Student Volunteer**: ASP-DAC'14
 
-Create content & metadata
+Awards and Honors
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Best Paper Award**,  The 39th IEEE International Conference on Computer Design (ICCD), 2021
+- **Outstanding Postdoc**, PNNL, 2020
+- **Best Paper Nomination**, ACM International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2016
+- **NUS Research Scholarship**, National University of Singapore, 2013
+- **Excellent Undergraduate Thesis Award**, Shandong University, 2013
+- **National Scholarship**, China, 2012
+- **Google Scholarship**, Google, China, 2011
+- **The First Prize Scholarship**, Shandong University, 2010
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Talks
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- [DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications](https://www.youtube.com/watch?v=EWOJQrRZNE0&t=7s), ICCD'21
+- [Democratizing Coarse-Grained Reconfigurable Arrays](https://www.youtube.com/watch?v=1P17ERtNQCU), NUS'21
+- OpenCGRA: Democratizing Coarse-Grained Reconfigurable Arrays, ASAP'21
+- AURORA: Automated Refinement of Coarse-Grained Reconfigurable Accelerators, DATE'21
+- OpenCGRA: An Open-Source Unified Framework for Modeling, Testing, and Evaluating CGRAs, CIRCT'20
+- [OpenCGRA: An Open-Source Unified Framework for Modeling, Testing, and Evaluating CGRAs](https://www.youtube.com/watch?v=kRdCl40kpTw&t=1s), ICCD'20
+- PyOCN: A Unified Framework for Modeling, Testing, and Evaluating On-Chip Networks, ICCD'19
+- Low-Power Many-Core Architectures for the Next-Generation Wearables, Cornell'19
+- [Stitch: Fusible Heterogeneous Accelerators Enmeshed with Many-Core Architecture for Wearables](https://www.youtube.com/watch?v=k69yUS-JHPw), ISCA'18
+-	LOCUS: Low-Power Customizable Many-Core Architecture for Wearables, ESWEEK'16
+- Approximation-Aware Scheduling on Heterogeneous Multi-core Architectures, ASP-DAC'15
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Media
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Representative **outstanding postdoc** in PNNL: [PNNL News](https://www.pnnl.gov/news-media/praises-postdocs)
+-	The research work **OpenCGRA** is featured in: [HPC wire](https://www.hpcwire.com/2021/06/18/pnnl-researchers-unveil-tool-to-accelerate-cgra-development), [CACM](https://m-cacm.acm.org/careers/253240-open-source-tool-helps-design-faster-energy-efficient-computers/fulltext?mobile=true), [MIRAGE](https://www.miragenews.com/surpassing-moores-law-574867/), [PNNL News](https://www.pnnl.gov/news-media/surpassing-moores-law)
+-	The research work **Stitch** is featured in: [Inceptive Mind](https://www.inceptivemind.com/stitch-fastest-independent-novel-chip-wearables/6976/), [NUS News](https://news.nus.edu.sg/research/future-wearables)
+
