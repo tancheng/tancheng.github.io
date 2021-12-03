@@ -84,6 +84,7 @@ Talks
 
 Media
 ------
+- The research work **DynPaC** is feature in: [PNNL News](https://www.pnnl.gov/news-media/dynpac-receives-best-paper-award-iccd-2021)
 - Representative **outstanding postdoc** in PNNL: [PNNL News](https://www.pnnl.gov/news-media/praises-postdocs)
 -	The research work **OpenCGRA** is featured in: [HPC wire](https://www.hpcwire.com/2021/06/18/pnnl-researchers-unveil-tool-to-accelerate-cgra-development), [CACM](https://m-cacm.acm.org/careers/253240-open-source-tool-helps-design-faster-energy-efficient-computers/fulltext?mobile=true), [MIRAGE](https://www.miragenews.com/surpassing-moores-law-574867/), [PNNL News](https://www.pnnl.gov/news-media/surpassing-moores-law)
 -	The research work **Stitch** is featured in: [Inceptive Mind](https://www.inceptivemind.com/stitch-fastest-independent-novel-chip-wearables/6976/), [NUS News](https://news.nus.edu.sg/research/future-wearables)
