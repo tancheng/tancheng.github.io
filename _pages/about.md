@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-*Pacific Northwest National Laboratory*
+*Microsoft*
 
-I received my Ph.D. from National University of Singapore (2018) and B.E. from Shandong University (2013), both in Computer Science. I worked as a postdoctoral associate at Cornell University in 2019. I am currently working at Pacific Northwest National Laboratory. My research interests include:
+I received my Ph.D. from National University of Singapore (2018, under the supervision of Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and Prof. [Li-shiuan Peh](https://www.comp.nus.edu.sg/~peh/) and B.E. from Shandong University (2013), both in Computer Science. Afterwards, I worded as a postdoctoral associate at Cornell University and Pacific Northwest National Laboratory for one and two years, respectively. I am currently working at Microsoft. My research interests include:
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Spatial Accelerator
@@ -59,7 +59,7 @@ Academic Service
 
 Awards and Honors
 ------
-- **Best Paper Award**,  The 39th IEEE International Conference on Computer Design (ICCD), 2021
+- **Best Paper Award**, The 39th IEEE International Conference on Computer Design (ICCD), 2021
 - **Outstanding Postdoc**, PNNL, 2020
 - **Best Paper Nomination**, ACM International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2016
 - **NUS Research Scholarship**, National University of Singapore, 2013
