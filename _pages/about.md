@@ -10,7 +10,7 @@ redirect_from:
 
 *Microsoft*
 
-I received my Ph.D. from National University of Singapore (2018, under the supervision of Prof. [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and Prof. [Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. Afterwards, I worded as a postdoctoral associate at Cornell University and Pacific Northwest National Laboratory for one and two years, respectively. I am currently working at Microsoft. My research interests include:
+I received my Ph.D. from National University of Singapore and B.E. from Shandong University (2013), both in Computer Science. Afterwards, I worded as a postdoctoral associate at Cornell University and Pacific Northwest National Laboratory. I started to work at Microsoft since Dec, 2021. My research interests include:
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Spatial Accelerator
