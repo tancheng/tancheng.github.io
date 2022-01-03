@@ -10,7 +10,7 @@ redirect_from:
 
 *Microsoft*
 
-I received my Ph.D. from National University of Singapore and B.E. from Shandong University (2013), both in Computer Science. Afterwards, I worded as a postdoctoral associate at Cornell University and Pacific Northwest National Laboratory. I started to work at Microsoft since Dec, 2021. My research interests include:
+I received my Ph.D. from National University of Singapore (2018) and B.E. from Shandong University (2013), both in Computer Science. Afterwards, I worded as a postdoctoral associate at Cornell University and Pacific Northwest National Laboratory. I started to work at Microsoft since Dec, 2021. My research interests include:
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Spatial Accelerator
