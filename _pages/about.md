@@ -54,7 +54,7 @@ Academic Service
 - **External Review Committee**: ASPLOS'22, HPCA'22
 - **Artifact Evaluation Committee**: PPOPP'21, MICRO'21
 - **Session Chair**: ICCAD'21, ICCD'21, ICCD'19
-- **Journal Reviewer**: TECS'21, MicroSI'21, TSUSC'21, TCAD'21, TPDS'21&20, TACO'21, TNNLS'21&20, PARCO'21&20, TVLSI'21&19, automatika'21
+- **Journal Reviewer**: TECS'21, MicroSI'21, TSUSC'21, TCAD'21, TPDS'21&20, TACO'21, TNNLS'21&20, PARCO'21&20, TVLSI'21&19, SUSCOM'22, automatika'21
 - **Conference Reviewer**: IPDPS'22, ICCAD'21, ICCD'21, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16
 - **Student Volunteer**: ASP-DAC'14
 
