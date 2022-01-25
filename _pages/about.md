@@ -50,7 +50,7 @@ Open-Source Projects
 
 Academic Service
 ------
-- **Program Committee**: CGRA4HPC'22, ICCAD'21, ICCD'21
+- **Program Committee**: CODES+ISSS'22, CGRA4HPC'22, ICCAD'21, ICCD'21
 - **External Review Committee**: ASPLOS'22, HPCA'22
 - **Artifact Evaluation Committee**: PPOPP'21, MICRO'21
 - **Session Chair**: ICCAD'21, ICCD'21, ICCD'19
