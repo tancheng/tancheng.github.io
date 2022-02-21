@@ -42,9 +42,9 @@ Publications
 
 Open-Source Projects
 ------
-- [OpenCGRA2](https://github.com/tancheng/OpenCGRA2), a unified CGRA framework.
+- [CGRA-Flow](https://github.com/tancheng/OpenCGRA2), a unified CGRA framework that collects different repos/components for CGRA development.
 - [CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper), an LLVM pass that generates CDFG and maps them onto a customizable CGRA.
-- [OpenCGRA](https://github.com/pnnl/opencgra), a unified CGRA framework.
+- [OpenCGRA](https://github.com/pnnl/opencgra), a CGRA framework for modeling, testing, and evaluating CGRAs.
 - [PyMTL3-net](https://github.com/cornell-brg/pymtl3-net), a unified NoC framework.
 - [ARENA](https://github.com/pnnl/arena), an asynchronous data-centric programming model.
 
