@@ -10,7 +10,7 @@ redirect_from:
 
 *Microsoft*
 
-I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. Before Dec 2021, I worked as a postdoctoral associate at Cornell University and Pacific Northwest National Laboratory. I am currently working on Brainwave project at Microsoft. My research interests include:
+I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. Before Dec 2021, I worked as a postdoctoral associate at Cornell University and Pacific Northwest National Laboratory. I am currently working on the Brainwave project at Microsoft. My research interests include:
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Reconfigurable Accelerator
@@ -51,7 +51,7 @@ Open-Source Projects
 Academic Service
 ------
 - **Program Committee**: CODES+ISSS'22, IPDPS-CGRA4HPC'22, ICCAD'22&21, ICCD'21
-- **External Review Committee**: ASPLOS'22, HPCA'22
+- **External Review Committee**: MICRO'22, ASPLOS'22, HPCA'22
 - **Artifact Evaluation Committee**: PPOPP'21, MICRO'21
 - **Session Chair**: ICCAD'21, ICCD'21&19
 - **Journal Reviewer**: TECS'21, MicroSI'21, TSUSC'21, TCAD'21, TPDS'21&20, TACO'21, TNNLS'21&20, PARCO'21&20, TVLSI'21&19, SUSCOM'22, automatika'21
@@ -60,6 +60,7 @@ Academic Service
 
 Awards and Honors
 ------
+- **Outstanding Performance Award**, PNNL, 2022
 - **Best Paper Award**, The 39th IEEE International Conference on Computer Design (ICCD), 2021
 - **Outstanding Postdoc**, PNNL, 2020
 - **Best Paper Nomination**, ACM International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2016
