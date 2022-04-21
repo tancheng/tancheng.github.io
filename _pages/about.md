@@ -49,6 +49,7 @@ Open-Source Projects
 - [OpenCGRA](https://github.com/pnnl/opencgra), a CGRA framework for modeling, testing, and evaluating CGRAs.
 - [PyMTL3-net](https://github.com/cornell-brg/pymtl3-net), a unified NoC framework.
 - [ARENA](https://github.com/pnnl/arena), an asynchronous data-centric programming model.
+- [IoT-kernels](https://github.com/iot-locus/kernels), an IoT application benchmark.
 
 Academic Service
 ------
