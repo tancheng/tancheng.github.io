@@ -44,7 +44,7 @@ Publications
 
 Open-Source Projects
 ------
-- [CGRA-Flow](https://github.com/tancheng/OpenCGRA2), a unified CGRA framework that collects different repos/modules for CGRA development.
+- [CGRA-Flow](https://github.com/tancheng/CGRA-Flow), a unified CGRA framework that collects different repos/modules for CGRA development.
 - [CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper), an LLVM pass that generates CDFG and maps them onto a customizable CGRA.
 - [OpenCGRA](https://github.com/pnnl/opencgra), a CGRA framework for modeling, testing, and evaluating CGRAs.
 - [PyMTL3-net](https://github.com/cornell-brg/pymtl3-net), a unified NoC framework.
@@ -53,12 +53,12 @@ Open-Source Projects
 
 Academic Service
 ------
-- **Program Committee**: MICRO'22, CODES+ISSS'22, IPDPS-CGRA4HPC'22, ICCAD'22&21, ICCD'22&21
+- **Program Committee**: MICRO'22, CODES+ISSS'22, CGRA4HPC'22, ICCAD'22&21, ICCD'22&21
 - **External Review Committee**: ASPLOS'22, HPCA'22
 - **Artifact Evaluation Committee**: PPOPP'21, MICRO'21
 - **Session Chair**: ICCAD'21, ICCD'21&19
 - **Journal Reviewer**: TECS'21, MicroSI'22&21, TSUSC'21, TCAD'21, TPDS'21&20, TACO'21, TNNLS'21&20, PARCO'21&20, TVLSI'21&19, SUSCOM'22, automatika'21
-- **Secondary Reviewer**: IPDPS'22, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16
+- **Secondary Reviewer**: IPDPS'22, MLBench'22, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16
 - **Student Volunteer**: ASP-DAC'14
 
 Awards and Honors
