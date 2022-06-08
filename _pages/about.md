@@ -10,7 +10,7 @@ redirect_from:
 
 *Microsoft*
 
-I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I was previously employed by Cornell University and Pacific Northwest National Laboratory. I am currently working on the Brainwave project at Microsoft. My research interests include:
+I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I worked as postdoc at Cornell University and Pacific Northwest National Laboratory working on HW/SW co-design and NoC. I am currently working on the Brainwave project at Microsoft. My research interests include:
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Reconfigurable Accelerator
@@ -18,8 +18,9 @@ I received my Ph.D. from the National University of Singapore (2018, co-supervis
 
 Publications
 ------
+- **ASAP: Automatic Synthesis of Area-Efficient and Precision-Aware CGRAs.** <u>Cheng Tan</u>, Thierry Tambe, Jeff (Jun) Zhang, Bo Fang, Tong Geng, Gu-Yeon Wei, David Brooks, Antonino Tumeo, Ganesh Gopalakrishnan, Ang Li. The 36th ACM International Conference on Supercomputing (**ICS**), virtual conference, June 27-30, 2022.
 - **Bridging Python to Silicon: The SODA Toolchain.** Nicolas Bohm Agostini, Serena Curzel, Jeff (Jun) Zhang, Ankur Limaye, <u>Cheng Tan</u>, Vinay Amatya, Marco Minutoli, Vito Giovanni Castellana, Joseph Manzano, David Brooks, Gu-Yeon Wei, Antonino Tumeo. (**IEEE Micro**), 2022.
-- **ASAP: Automatic Synthesis of Area-Efficient and Precision-Aware CGRAs.** <u>Cheng Tan</u>, Thierry Tambe, Jeff (Jun) Zhang, Bo Fang, Tong Geng, Gu-Yeon Wei, David Brooks, Antonino Tumeo, Ganesh Gopalakrishnan, Ang Li. The 36th ACM International Conference on Supercomputing (**ICS**), virtual conference, June 27-30, 2022.<!-- - **(Poster) FCsN: A FPGA-Centric SmartNIC Framework for Neural Networks.** Anqi Guo, Tong Geng, Yongan Zhang, Pouya Haghi, Chunshu Wu, <u>Cheng Tan</u>, Yingyan Lin, Ang Li, Martin Herbordt. The 30th IEEE International Symposium On Field-Programmable Custom Computing Machines (**FCCM**), New York City, NY, USA. May 15-18, 2022.-->
+- **(Poster) FCsN: A FPGA-Centric SmartNIC Framework for Neural Networks.** Anqi Guo, Tong Geng, Yongan Zhang, Pouya Haghi, Chunshu Wu, <u>Cheng Tan</u>, Yingyan Lin, Ang Li, Martin Herbordt. The 30th IEEE International Symposium On Field-Programmable Custom Computing Machines (**FCCM**), New York City, NY, USA. May 15-18, 2022.
 - **DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.** <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Seoul, South Korea, February 2022.
 - **Automated Generation of Integrated Digital and Spiking Neuromorphic Machine Learning Accelerators.** Serena Curzel, Nicolas Bohm Agostini, Shihao Song, Ismet Dagli, Ankur Limaye, <u>Cheng Tan</u>, Marco Minutoli, Vito Giovanni Castellana, Vinay Amatya, Joseph Manzano, Anup Das, Fabrizio Ferrandi, Antonino Tumeo. 2021 IEEE/ACM International Conference On Computer Aided Design (**ICCAD**), November 1, 2021.
 - **DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.** <u>Cheng Tan</u>, Tong Geng, Chenhao Xie, Nicolas Bohm Agostini, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 39th IEEE International Conference on Computer Design (**ICCD**), October 2021. <span style="color:red">**Best Paper Award**</span>.
