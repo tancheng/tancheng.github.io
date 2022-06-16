@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+------
 - **ASAP: Automatic Synthesis of Area-Efficient and Precision-Aware CGRAs.** <u>Cheng Tan</u>, Thierry Tambe, Jeff (Jun) Zhang, Bo Fang, Tong Geng, Gu-Yeon Wei, David Brooks, Antonino Tumeo, Ganesh Gopalakrishnan, Ang Li. The 36th ACM International Conference on Supercomputing (**ICS**), virtual conference, June 27-30, 2022.
 - **Bridging Python to Silicon: The SODA Toolchain.** Nicolas Bohm Agostini, Serena Curzel, Jeff (Jun) Zhang, Ankur Limaye, <u>Cheng Tan</u>, Vinay Amatya, Marco Minutoli, Vito Giovanni Castellana, Joseph Manzano, David Brooks, Gu-Yeon Wei, Antonino Tumeo. (**IEEE Micro**), 2022.
 - **FCsN: A FPGA-Centric SmartNIC Framework for Neural Networks.** Anqi Guo, Tong Geng, Yongan Zhang, Pouya Haghi, Chunshu Wu, <u>Cheng Tan</u>, Yingyan Lin, Ang Li, Martin Herbordt. The 30th IEEE International Symposium On Field-Programmable Custom Computing Machines (**FCCM**), New York City, NY, USA. May 15-18, 2022.
