@@ -10,7 +10,7 @@ redirect_from:
 
 *Microsoft*
 
-I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I worked as postdoc at Cornell University and Pacific Northwest National Laboratory working on HW/SW co-design and NoC. I am currently working on the Brainwave project at Microsoft. My research interests include:
+I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I was employed by Cornell University and Pacific Northwest National Laboratory and worked on NoC and HW/SW co-design, respectively. I am currently working on the Brainwave project at Microsoft. My research interests include:
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Reconfigurable Accelerator
@@ -27,7 +27,6 @@ Selected Publications
 - **OpenCGRA: An Open-Source Unified Framework for Modeling, Testing, and Evaluating CGRAs.** <u>Cheng Tan</u>, Chenhao Xie, Ang Li, Kevin Barker, Antonino Tumeo. The 38th IEEE International Conference on Computer Design (**ICCD**), October 2020.
 - **Stitch: Fusible Heterogeneous Accelerators Enmeshed with Many-Core Architecture for Wearables.** <u>Cheng Tan</u>, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. 45th ACM/IEEE International Symposium on Computer Architecture (**ISCA**), June 2018.
 - **DNestMap: Mapping Deeply-Nested Loops on Ultra-Low Power CGRAs.** Manupa Karunaratne, <u>Cheng Tan</u>, Aditi Kulkarni, Tulika Mitra, Li-Shiuan Peh. 55th ACM/IEEE Design Automation Conference (**DAC**), June 2018.
-- **(Extended) LOCUS: Low-Power Customizable Many-Core Architecture for Wearables.** <u>Cheng Tan</u>, Aditi Kulkarni, Vanchinathan Venkataramani, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. ACM Transactions on Embedded Computing Systems (**TECS**), 2018.
 - **LOCUS: Low-Power Customizable Many-Core Architecture for Wearables.** <u>Cheng Tan</u>, Aditi Kulkarni, Vanchinathan Venkataramani, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. ACM International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (**CASES**), October 2016. <span style="color:red">**Best Paper Nomination**</span>.
 
 Open-Source Projects
