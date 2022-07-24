@@ -18,15 +18,12 @@ I received my Ph.D. from the National University of Singapore (2018, co-supervis
 
 Selected Publications
 ------
-- **ASAP: Automatic Synthesis of Area-Efficient and Precision-Aware CGRAs.** <u>Cheng Tan</u>, Thierry Tambe, Jeff (Jun) Zhang, Bo Fang, Tong Geng, Gu-Yeon Wei, David Brooks, Antonino Tumeo, Ganesh Gopalakrishnan, Ang Li. The 36th ACM International Conference on Supercomputing (**ICS**), virtual conference, June 27-30, 2022.
 - **DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.** <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Seoul, South Korea, February 2022.
 - **DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.** <u>Cheng Tan</u>, Tong Geng, Chenhao Xie, Nicolas Bohm Agostini, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 39th IEEE International Conference on Computer Design (**ICCD**), October 2021. <span style="color:red">**Best Paper Award**</span>.
 - **I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization.** Tong Geng, Chunshu Wu, Yongan Zhang, <u>Cheng Tan</u>, Chenhao Xie, Haoran You, Martin Herbordt, Yingyan Lin, Ang Li. 54th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Athens, Greece, Oct 16-20, 2021.
 - **Ultra-Elastic CGRAs for Irregular Loop Specialization.** Christopher Torng, Peitian Pan, Yanghui Ou, <u>Cheng Tan</u>, Christopher Batten. 27th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Seoul 2021.
-- **SODA: A New Synthesis Infrastructure for Agile Hardware Design of Machine Learning Accelerators.** Marco Minutoli , Vito Giovanni Castellana, <u>Cheng Tan</u>, Joseph Manzano, Vinay Amatya, Antonino Tumeo, David Brooks, Gu-Yeon Wei. 2020 International Conference On Computer Aided Design (**ICCAD**), November 2020
 - **OpenCGRA: An Open-Source Unified Framework for Modeling, Testing, and Evaluating CGRAs.** <u>Cheng Tan</u>, Chenhao Xie, Ang Li, Kevin Barker, Antonino Tumeo. The 38th IEEE International Conference on Computer Design (**ICCD**), October 2020.
 - **Stitch: Fusible Heterogeneous Accelerators Enmeshed with Many-Core Architecture for Wearables.** <u>Cheng Tan</u>, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. 45th ACM/IEEE International Symposium on Computer Architecture (**ISCA**), June 2018.
-- **DNestMap: Mapping Deeply-Nested Loops on Ultra-Low Power CGRAs.** Manupa Karunaratne, <u>Cheng Tan</u>, Aditi Kulkarni, Tulika Mitra, Li-Shiuan Peh. 55th ACM/IEEE Design Automation Conference (**DAC**), June 2018.
 - **LOCUS: Low-Power Customizable Many-Core Architecture for Wearables.** <u>Cheng Tan</u>, Aditi Kulkarni, Vanchinathan Venkataramani, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. ACM International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (**CASES**), October 2016. <span style="color:red">**Best Paper Nomination**</span>.
 
 Open-Source Projects
