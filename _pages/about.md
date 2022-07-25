@@ -45,6 +45,10 @@ Academic Service
 - **Secondary Reviewer**: IPDPS'22, MLBench'22, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16
 - **Student Volunteer**: ASP-DAC'14
 
+Teaching
+------
+- CS4223 Multi-Core Architectures, Teaching Assistant, School of Computing, National University of Singapore, Aug 2015 - Jan 2016
+
 Awards and Honors
 ------
 - **Outstanding Performance Award**, PNNL, 2022
