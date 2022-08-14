@@ -10,13 +10,13 @@ redirect_from:
 
 *Microsoft*
 
-About Me ([CV](https://github.com/tancheng/tancheng.github.io/blob/master/_pages/cv.pdf))
-------
 I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I was employed by Cornell University and Pacific Northwest National Laboratory and worked on NoC and HW/SW co-design, respectively. I am currently working on the Brainwave project at Microsoft. My research interests include:
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Reconfigurable Accelerator
 - Network-on-Chip
+
+My CV can be found ([here](https://tancheng.github.io/_pages/cv.pdf)).
 
 Selected Publications
 ------
