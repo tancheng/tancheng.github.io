@@ -16,8 +16,6 @@ I received my Ph.D. from the National University of Singapore (2018, co-supervis
 - Reconfigurable Accelerator
 - Network-on-Chip
 
-My CV can be found ([here](https://tancheng.github.io/_pages/cv.pdf)).
-
 Selected Publications
 ------
 - **[HPCA]** [DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.](https://ieeexplore.ieee.org/document/9773269) <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture, Seoul, South Korea, February 2022.
