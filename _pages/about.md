@@ -10,7 +10,8 @@ redirect_from:
 
 <!--*Microsoft*-->
 
-I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I was employed by Cornell University and Pacific Northwest National Laboratory and worked on NoC and HW/SW co-design, respectively. I am currently working on the Brainwave project at Microsoft. My research interests include:
+I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on Network-on-Chip, HW/SW co-design, and machine learning compilation, respectively. I am currently working at Google. My research interests include:
+- Machine Learning Acceleration on Edge
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Reconfigurable Accelerator
@@ -28,12 +29,12 @@ Selected Publications
 
 Open-Source Projects
 ------
-- [CGRA-Flow](https://github.com/tancheng/CGRA-Flow), a unified CGRA framework that collects different repos/modules for CGRA development.
+- [CGRA-Flow](https://github.com/tancheng/CGRA-Flow), an integrated framework for CGRA compilation, exploration, synthesis, and development.
 - [CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper), an LLVM pass that generates CDFG and maps them onto a customizable CGRA.
 - [OpenCGRA](https://github.com/pnnl/opencgra), a CGRA framework for modeling, testing, and evaluating CGRAs.
-- [PyMTL3-net](https://github.com/cornell-brg/pymtl3-net), a unified NoC framework.
+- [PyMTL3-net](https://github.com/cornell-brg/pymtl3-net), a unified Network-on-Chip framework.
 - [ARENA](https://github.com/pnnl/arena), an asynchronous data-centric programming model.
-- [IoT-kernels](https://github.com/iot-locus/kernels), an IoT application benchmark.
+- [IoT-kernels](https://github.com/iot-locus/kernels), an IoT application benchmark suite.
 
 Academic Service
 ------
