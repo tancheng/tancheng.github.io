@@ -10,7 +10,7 @@ redirect_from:
 
 *Google*
 
-I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on Network-on-Chip, HW/SW co-design, and machine learning compilation, respectively. I am currently working at Google. My research interests include:
+I received my Ph.D. from the National University of Singapore (2018, co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University (2013), both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on Network-on-Chip, HW/SW co-design, and Machine Learning Compiler, respectively. I am currently working at Google. My research interests include:
 - Machine Learning Compiler
 - Many-Core Architecture
 - Hardware/Software Co-Design
