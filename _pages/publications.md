@@ -7,6 +7,11 @@ author_profile: true
 ------
 **2022**
 
+- **ML-CGRA: An Integrated Compilation Framework to Enable Efficient Machine Learning Acceleration on CGRAs.** Yixuan Luo\*, <u>Cheng Tan</u>\*, Nicolas Bohm Agostini, Antonino Tumeo, Nirav Dave, Ang Li, Tong Geng. 60th ACM/IEEE Design Automation Conference (**DAC**), July 2023.
+
+
+**2022**
+
 - **An MLIR-based Compiler Flow for System-Level Design and Hardware Acceleration.** Nicolas Bohm Agostini, Serena Curzel, Vinay Amatya, <u>Cheng Tan</u>, Marco Minutoli, Vito Giovanni Castellana, Joseph B. Manzano, David Kaeli, Antonino Tumeo. 2022 IEEE/ACM International Conference On Computer Aided Design (**ICCAD**), November 1, 2022.
 - **A Framework for Neural Network Inference on FPGA-Centric SmartNICs.** Anqi Guo, Tong Geng, Yongan Zhang, Pouya Haghi, Chunshu Wu, <u>Cheng Tan</u>, Yingyan Lin, Ang Li, Martin Herbordt. International Conference on Field Programmable Logic and Applications (**FPL**), Belfast, UK, Aug 29-Sep 2, 2022.
 - **ASAP: Automatic Synthesis of Area-Efficient and Precision-Aware CGRAs.** <u>Cheng Tan</u>, Thierry Tambe, Jeff (Jun) Zhang, Bo Fang, Tong Geng, Gu-Yeon Wei, David Brooks, Antonino Tumeo, Ganesh Gopalakrishnan, Ang Li. The 36th ACM International Conference on Supercomputing (**ICS**), virtual conference, June 27-30, 2022.
