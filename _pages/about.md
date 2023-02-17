@@ -19,6 +19,7 @@ I received my Ph.D. from the National University of Singapore (2018, co-supervis
 
 Selected Publications
 ------
+- **[DAC]** [ML-CGRA: An Integrated Compilation Framework to Enable Efficient Machine Learning Acceleration on CGRAs.](https://github.com/tancheng/mlir-cgra) Yixuan Luo\*, <u>Cheng Tan</u>\*, Nicolas Bohm Agostini, Antonino Tumeo, Nirav Dave, Ang Li, Tong Geng. 60th ACM/IEEE Design Automation Conference (**DAC**), July 2023.
 - **[HPCA]** [DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.](https://ieeexplore.ieee.org/document/9773269) <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture, Seoul, South Korea, February 2022.
 - **[ICCD]** [DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.](https://ieeexplore.ieee.org/document/9643624) <u>Cheng Tan</u>, Tong Geng, Chenhao Xie, Nicolas Bohm Agostini, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 39th IEEE International Conference on Computer Design, October 2021. <span style="color:red">**Best Paper Award**</span>.
 - **[MICRO]** [I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization.](https://arxiv.org/pdf/2203.03606.pdf) Tong Geng, Chunshu Wu, Yongan Zhang, <u>Cheng Tan</u>, Chenhao Xie, Haoran You, Martin Herbordt, Yingyan Lin, Ang Li. 54th IEEE/ACM International Symposium on Microarchitecture, Athens, Greece, Oct 16-20, 2021.
