@@ -11,7 +11,7 @@ redirect_from:
 *Google*
 
 I received my Ph.D. from the National University of Singapore (co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University, both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on Network-on-Chip, HW/SW co-design, and Brainwave Machine Learning Compiler, respectively. I am currently working at Google. My research interests include:
-- Machine Learning Compiler
+- Machine Learning Compilation
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Reconfigurable Accelerator
