@@ -7,6 +7,7 @@ author_profile: true
 ------
 **2023**
 
+- **VecPAC: A Vectorizable and Precision-Aware CGRA.** <u>Cheng Tan</u>, Deepak Patil, Antonino Tumeo, Gabriel Weisz, Steve Reinhardt and Jeff Zhang. 2022 IEEE/ACM International Conference On Computer Aided Design (**ICCAD**), November 2023.
 - **ML-CGRA: An Integrated Compilation Framework to Enable Efficient Machine Learning Acceleration on CGRAs.** Yixuan Luo\*, <u>Cheng Tan</u>\*, Nicolas Bohm Agostini, Antonino Tumeo, Nirav Dave, Ang Li, Tong Geng. 60th ACM/IEEE Design Automation Conference (**DAC**), July 2023.
 - **FLASH: FPGA-Accelerated Smart Switches with GCN Case Study.** Pouya Haghi, William Krska, <u>Cheng Tan</u>, Tong Geng, Po Hao Chen, Connor Greenwood, Anqi Guo, Thomas Hines, Chunshu Wu, Ang Li, Antony Skjellum, Martin Herbordt, International Conference on Supercomputing (**ICS**), Orlando, FL, USA. June 21-23, 2023.
 
