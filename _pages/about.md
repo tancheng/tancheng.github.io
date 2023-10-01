@@ -10,12 +10,14 @@ redirect_from:
 
 *Google*
 
-I received my Ph.D. from the National University of Singapore (co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University, both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on Network-on-Chip, HW/SW co-design, and Brainwave Machine Learning Compiler, respectively. I am currently working at Google. My research interests include:
+I am currently a software engineer at Google working on Edge TPU. I received my Ph.D. from the National University of Singapore (co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University, both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and Brainwave Machine Learning Accelerator/Compiler, respectively. I have published papers and served as program committee in most of the top-tier architecture-related conferences. My research interests include:
 - Machine Learning Compilation
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Reconfigurable Accelerator
 - Network-on-Chip
+
+I dedicate myself to democratizing domain-specific reconfigurable acceleration, aiming at a push-button automated solution towards compilation, architecture design, and synthesis, given the domain-specific applications including machine learning. Most of my research works are open-source: https://github.com/tancheng. Let me know if you are interested!
 
 Selected Publications
 ------
@@ -25,7 +27,6 @@ Selected Publications
 - **[ICCD]** [DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.](https://ieeexplore.ieee.org/document/9643624) <u>Cheng Tan</u>, Tong Geng, Chenhao Xie, Nicolas Bohm Agostini, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 39th IEEE International Conference on Computer Design, October 2021. <span style="color:red">**Best Paper Award**</span>.
 - **[MICRO]** [I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization.](https://arxiv.org/pdf/2203.03606.pdf) Tong Geng, Chunshu Wu, Yongan Zhang, <u>Cheng Tan</u>, Chenhao Xie, Haoran You, Martin Herbordt, Yingyan Lin, Ang Li. 54th IEEE/ACM International Symposium on Microarchitecture, Athens, Greece, Oct 16-20, 2021.
 - **[HPCA]** [Ultra-Elastic CGRAs for Irregular Loop Specialization.](https://www.csl.cornell.edu/~cbatten/pdfs/torng-uecgra-hpca2021.pdf) Christopher Torng, Peitian Pan, Yanghui Ou, <u>Cheng Tan</u>, Christopher Batten. 27th IEEE International Symposium on High-Performance Computer Architecture, Seoul 2021.
-- **[ICCD]** [OpenCGRA: An Open-Source Unified Framework for Modeling, Testing, and Evaluating CGRAs.](https://ieeexplore.ieee.org/document/9283606) <u>Cheng Tan</u>, Chenhao Xie, Ang Li, Kevin Barker, Antonino Tumeo. The 38th IEEE International Conference on Computer Design, October 2020.
 - **[ISCA]** [Stitch: Fusible Heterogeneous Accelerators Enmeshed with Many-Core Architecture for Wearables.](https://www.comp.nus.edu.sg/~tulika/ISCA18.pdf) <u>Cheng Tan</u>, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. 45th ACM/IEEE International Symposium on Computer Architecture, June 2018.
 - **[CASES]** [LOCUS: Low-Power Customizable Many-Core Architecture for Wearables.](https://www.comp.nus.edu.sg/~tulika/CASES16.pdf) <u>Cheng Tan</u>, Aditi Kulkarni, Vanchinathan Venkataramani, Manupa Karunaratne, Tulika Mitra, Li-Shiuan Peh. ACM International Conference on Compilers, Architecture, and Synthesis for Embedded Systems, October 2016. <span style="color:red">**Best Paper Nomination**</span>.
 
