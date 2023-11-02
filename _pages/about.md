@@ -10,7 +10,7 @@ redirect_from:
 
 *Google*
 
-I am currently a software engineer at Google working on Edge TPU. I received my Ph.D. from the National University of Singapore (co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University, both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and Brainwave Machine Learning Accelerator/Compiler, respectively. I have published papers and served as program committee in most of the top-tier architecture-related conferences. My research interests include:
+I am currently a software engineer at Google working on Edge TPU. I received my Ph.D. from the National University of Singapore (co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University, both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), respectively. I have published papers and served as program committee in most of the top-tier architecture-related conferences. My research interests include:
 - Machine Learning Compilation
 - Many-Core Architecture
 - Hardware/Software Co-Design
