@@ -9,6 +9,7 @@ author_profile: true
 **2024**
 
 - **FHE-CGRA: Enable Efficient Acceleration of Fully Homomorphic Encryption on CGRAs.** Miaomiao Jiang, Yilan Zhu, Honghui You, <u>Cheng Tan</u>, Zhaoying Li, Jiming Xu, Lei Ju. 61st ACM/IEEE Design Automation Conference (**DAC**), July 2024.
+- **Fused Functional Units for Area-Efficient CGRAs.** Ron Jokai, <u>Cheng Tan</u>, Jeff Zhang. The 25th International Symposium on Quality Electronic Design (**ISQED**), April 2024.
 
 **2023**
 
