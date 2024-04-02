@@ -42,7 +42,7 @@ Open-Source Projects
 
 Academic Service
 ------
-- **Program Committee**: HPCA'24, MICRO'22, CODES+ISSS'24/'23/'22, ICCAD'23/'22/'21, ICCD'23/'22/'21, RAW'24, CGRA4HPC'24/'23/'22, CFW'24.
+- **Program Committee**: HPCA'24, MICRO'22, CODES+ISSS'24/'23/'22, ICCAD'24/'23/'22/'21, ICCD'23/'22/'21, RAW'24, CGRA4HPC'24/'23/'22, CFW'24.
 - **External Review Committee**: ISCA'24, MICRO'24, HPCA'22, ASPLOS'22.
 - **Artifact Evaluation Committee**: PPOPP'21, MICRO'21.
 - **Session Chair**: ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
