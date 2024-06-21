@@ -9,7 +9,7 @@ redirect_from:
 
 *Google*
 
-I am currently a software engineer at Google working on Edge TPU. I received my Ph.D. from the National University of Singapore (co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University, both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), respectively. I have published papers and served as program committee in most of the top-tier architecture-related conferences. My research interests include:
+I am currently a software engineer at Google working on Edge TPU. I am also a visiting scientist in the School of Electrical, Computer and Energy Engineering at ASU. I received my Ph.D. from the National University of Singapore (co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University, both in Computer Science. I was employed by Cornell University, Pacific Northwest National Laboratory, and Microsoft, working on [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), respectively. I have published papers and served as program committee in most of the top-tier architecture-related conferences. My research interests include:
 - Machine Learning Compilation
 - Many-Core Architecture
 - Hardware/Software Co-Design
@@ -46,7 +46,7 @@ Academic Service
 - **External Review Committee**: ISCA'24, MICRO'24, HPCA'22, ASPLOS'22.
 - **Artifact Evaluation Committee**: PPOPP'21, MICRO'21.
 - **Session Chair**: ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
-- **Journal Reviewer**: CAL'24, TC'22, TECS'23/'21, MicroSI'22/'21, TSUSC'21, TCAD'21, TPDS'23/'21/'20, TACO'23/'21, TNNLS'21/'20, TVLSI'23/'22/'21/'19, PARCO'21/'20, JSA'23, SUSCOM'22.
+- **Journal Reviewer**: CAL'24, TC'22, TECS'23/'21, MicroSI'22/'21, TSUSC'21, TCAD'21, TPDS'23/'21/'20, TACO'23/'21, TNNLS'21/'20, TVLSI'23/'22/'21/'19, PARCO'21/'20, JSA'23, JCSC'24, SUSCOM'22.
 - **Secondary Reviewer**: IPDPS'22, MLBench'22, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16.
 - **Student Volunteer**: ASP-DAC'14.
 
