@@ -67,6 +67,7 @@ Awards and Honors
 
 Talks
 ------
+- ICED: An Integrated CGRA Framework Enabling DFVS-Aware Acceleration, MICRO'24.
 - VecPAC: A Vectorizable and Precision-Aware CGRA, ICCAD'23.
 - ASAP: Automatic Synthesis of Area-Efficient and Precision-Aware CGRAs, ICS'22.
 - DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs, HPCA'22.
