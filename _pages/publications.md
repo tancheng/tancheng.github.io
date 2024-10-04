@@ -6,6 +6,8 @@ author_profile: true
 
 ------
 
+**2025**
+
 **2024**
 
 - **ICED: An Integrated CGRA Framework Enabling DFVS-Aware Acceleration.** <u>Cheng Tan</u>, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff (Jun) Zhang. IEEE/ACM International Symposium on Microarchitecture (**MICRO**). Austin, TX, Nov 2024.
