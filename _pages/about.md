@@ -16,7 +16,7 @@ I am currently a software engineer at Google working on Edge TPU machine learnin
 - Reconfigurable Accelerator
 - Network-on-Chip
 
-I dedicate to democratizing domain-specific reconfigurable acceleration, aiming at a push-button solution towards compilation, architecture design, and synthesis, given the domain-specific applications including machine learning. Most of my research works are open-source at [https://github.com/tancheng](https://github.com/tancheng). Let me know if you are interested!
+I dedicate to democratizing domain-specific reconfigurable acceleration, aiming at a [push-button solution](https://github.com/tancheng/CGRA-Flow) towards compilation, architecture design, and synthesis. Most of my research works are open-source at [https://github.com/tancheng](https://github.com/tancheng). Let me know if you are interested!
 
 Selected Publications
 ------
