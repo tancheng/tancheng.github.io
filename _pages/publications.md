@@ -8,6 +8,8 @@ author_profile: true
 
 **2025**
 
+- **Enhancing CGRA Efficiency through Aligned Compute and Communication Provisioning.** Zhaoying Li, Pranav Dangi, Chenyang Yin, Thilini Kaushalya Bandara, Rohan Juneja, <u>Cheng Tan</u>, Tulika Mitra. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). Rotterdam, The Netherlands, April 2025.
+
 **2024**
 
 - **ICED: An Integrated CGRA Framework Enabling DFVS-Aware Acceleration.** <u>Cheng Tan</u>, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff (Jun) Zhang. IEEE/ACM International Symposium on Microarchitecture (**MICRO**). Austin, TX, Nov 2024.
