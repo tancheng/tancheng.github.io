@@ -18,9 +18,11 @@ I am currently a software engineer at Google working on Edge TPU machine learnin
 
 I dedicate to democratizing domain-specific reconfigurable acceleration, aiming at a [push-button solution](https://github.com/tancheng/CGRA-Flow) towards compilation, architecture design, and synthesis. Most of my research works are open-source at [https://github.com/tancheng](https://github.com/tancheng). Let me know if you are interested!
 
+
 Selected Publications
 ------
-- **[MICRO]** [ICED: An Integrated CGRA Framework Enabling DFVS-Aware Acceleration.](https://microarch.org/micro57/) <u>Cheng Tan</u>, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff (Jun) Zhang. IEEE/ACM International Symposium on Microarchitecture. Austin, TX, Nov 2024.
+- **[ASPLOS]** [Enhancing CGRA Efficiency through Aligned Compute and Communication Provisioning.](https://www.asplos-conference.org/asplos2025/) Zhaoying Li, Pranav Dangi, Chenyang Yin, Thilini Kaushalya Bandara, Rohan Juneja, <u>Cheng Tan</u>, Tulika Mitra. ACM International Conference on Architectural Support for Programming Languages and Operating Systems. Rotterdam, The Netherlands, April 2025.
+- **[MICRO]** [ICED: An Integrated CGRA Framework Enabling DFVS-Aware Acceleration.](https://www.comp.nus.edu.sg/~tulika/MICRO24.pdf) <u>Cheng Tan</u>, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff (Jun) Zhang. IEEE/ACM International Symposium on Microarchitecture. Austin, TX, Nov 2024.
 - **[IEEE Micro]** [Bridging Python to Silicon: The SODA Toolchain.](https://ieeexplore.ieee.org/document/9786533) Nicolas Bohm Agostini, Serena Curzel, Jeff (Jun) Zhang, Ankur Limaye, <u>Cheng Tan</u>, Vinay Amatya, Marco Minutoli, Vito Giovanni Castellana, Joseph Manzano, David Brooks, Gu-Yeon Wei, Antonino Tumeo. IEEE Micro, 2022. <span style="color:red">**Best Paper Award**</span>.
 - **[HPCA]** [DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.](https://ieeexplore.ieee.org/document/9773269) <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture, Seoul, South Korea, February 2022.
 - **[ICCD]** [DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.](https://ieeexplore.ieee.org/document/9643624) <u>Cheng Tan</u>, Tong Geng, Chenhao Xie, Nicolas Bohm Agostini, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 39th IEEE International Conference on Computer Design, October 2021. <span style="color:red">**Best Paper Award**</span>.
@@ -29,6 +31,9 @@ Selected Publications
 
 Open-Source Projects
 ------
+
+![demo](https://github.com/user-attachments/assets/f25aa532-e11f-4d62-8b3f-1217c8c48cb4)
+
 - [CGRA-Flow](https://github.com/tancheng/CGRA-Flow), an integrated framework for compilation, exploration, synthesis, and development of spatial accelerators.
 - [CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper), an LLVM pass that generates CDFG and maps them onto a customizable CGRA.
 - [MLIR-CGRA](https://github.com/tancheng/mlir-cgra), MLIR dialects/passes to enable the efficient acceleration of ML models on CGRAs.
