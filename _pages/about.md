@@ -48,7 +48,7 @@ Academic Service
 - **Program Committee**: HPCA'25/'24, MICRO'22, CODES+ISSS'24/'23/'22, ICCAD'24/'23/'22/'21, ICCD'23/'22/'21, RAW'24, CGRA4HPC'24/'23/'22, CFW'24.
 - **External Review Committee**: ISCA'24, MICRO'24, HPCA'22, ASPLOS'22.
 - **Artifact Evaluation Committee**: PPOPP'21, MICRO'21.
-- **Session Chair**: ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
+- **Session Chair**: MICRO'24, ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
 - **Journal Reviewer**: CAL'24, TC'22, TECS'23/'21, MicroSI'22/'21, TSUSC'21, TCAD'21, TPDS'23/'21/'20, TACO'23/'21, TNNLS'21/'20, TVLSI'24/'23/'22/'21/'19, PARCO'21/'20, JSA'23, JCSC'24, SUSCOM'22.
 - **Secondary Reviewer**: IPDPS'22, MLBench'22, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16.
 - **Student Volunteer**: ASP-DAC'14.
