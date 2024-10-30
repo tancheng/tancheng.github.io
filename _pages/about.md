@@ -32,7 +32,7 @@ Selected Publications
 Open-Source Projects
 ------
 
-![demo](https://github.com/user-attachments/assets/f25aa532-e11f-4d62-8b3f-1217c8c48cb4)
+![20241028](https://github.com/user-attachments/assets/305fa79d-73b9-4512-ab85-0cecc6153986)
 
 - [CGRA-Flow](https://github.com/tancheng/CGRA-Flow), an integrated framework for compilation, exploration, synthesis, and development of spatial accelerators.
 - [CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper), an LLVM pass that generates CDFG and maps them onto a customizable CGRA.
