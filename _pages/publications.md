@@ -12,7 +12,7 @@ author_profile: true
 
 **2024**
 
-- **ICED: An Integrated CGRA Framework Enabling DFVS-Aware Acceleration.** <u>Cheng Tan</u>, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff (Jun) Zhang. IEEE/ACM International Symposium on Microarchitecture (**MICRO**). Austin, TX, Nov 2024.
+- **ICED: An Integrated CGRA Framework Enabling DVFS-Aware Acceleration.** <u>Cheng Tan</u>, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff (Jun) Zhang. IEEE/ACM International Symposium on Microarchitecture (**MICRO**). Austin, TX, Nov 2024.
 - **MPGemmFI: A Fault Injection Technique for Mixed Precision GEMM in ML Applications.** Bo Fang, Xinyi Li, Harvey Dam, <u>Cheng Tan</u>, Siva Kumar Sastry Hari, Timothy Tsai, Ignacio Laguna, Dingwen Tao, Ganesh Gopalakrishnan, Prashant Nair, Kevin Barker, Ang Li. The IEEE International Conference on Cluster Computing (**CLUSTER**), September 24-27, 2024.
 - **FHE-CGRA: Enable Efficient Acceleration of Fully Homomorphic Encryption on CGRAs.** Miaomiao Jiang, Yilan Zhu, Honghui You, <u>Cheng Tan</u>, Zhaoying Li, Jiming Xu, Lei Ju. 61st ACM/IEEE Design Automation Conference (**DAC**), June 2024.
 - **SmartFuse: Reconfigurable Smart Switches to Accelerate Fused Collectives in HPC Applications.** Pouya Haghi, <u>Cheng Tan</u>, Anqi Guo, Chunshu Wu, Dongfang Liu, Ang Li, Anthony Skjellum, Tong Geng, Martin Herbordt. International Conference on Supercomputing (**ICS**), Kyoto, Japan, June 2024.
