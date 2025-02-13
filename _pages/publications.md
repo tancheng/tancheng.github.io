@@ -8,6 +8,7 @@ author_profile: true
 
 **2025**
 
+- **PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs.** Jiajun Qin, Tianhua Xia, <u>Cheng Tan</u>, Jeff (Jun) Zhang, Sai Qian Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). Rotterdam, The Netherlands, April 2025.
 - **Enhancing CGRA Efficiency through Aligned Compute and Communication Provisioning.** Zhaoying Li, Pranav Dangi, Chenyang Yin, Thilini Kaushalya Bandara, Rohan Juneja, <u>Cheng Tan</u>, Tulika Mitra. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). Rotterdam, The Netherlands, April 2025.
 
 **2024**
