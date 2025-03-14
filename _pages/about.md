@@ -9,14 +9,14 @@ redirect_from:
 
 *Google & ASU*
 
-I am currently a software engineer at Google working on Edge TPU machine learning compiler. I am also faculty in the School of Electrical, Computer and Energy Engineering at ASU. I received my Ph.D. from the National University of Singapore (co-supervised by [Prof. Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) and [Prof. Li-Shiuan Peh](https://www.comp.nus.edu.sg/~peh/)) and B.E. from Shandong University, both in Computer Science. I was employed by Microsoft, Pacific Northwest National Laboratory, and Cornell University, working on [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), respectively. I have published papers as first author across all the top-tier architecture conferences. My research interests include:
+I am currently a software engineer at Google working on Edge TPU machine learning compiler. I am also faculty in the School of Electrical, Computer and Energy Engineering at ASU. I received my Ph.D. from the National University of Singapore. I was employed by Microsoft, Pacific Northwest National Laboratory, and Cornell University, working on [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), respectively. I have published papers as first author across all the top-tier architecture conferences. My research interests include:
 - Machine Learning Compilation
 - Many-Core Architecture
 - Hardware/Software Co-Design
 - Reconfigurable Accelerator
 - Network-on-Chip
 
-I dedicate to democratizing domain-specific reconfigurable acceleration, aiming at a [push-button solution](https://github.com/tancheng/CGRA-Flow) towards compilation, architecture design, and synthesis. Most of my research works are open-source at [https://github.com/tancheng](https://github.com/tancheng). Let me know if you are interested!
+I am dedicated to democratizing domain-specific reconfigurable acceleration, aiming at a [push-button solution](https://github.com/tancheng/CGRA-Flow) towards compilation, architecture design, and synthesis. Most of my research works are open-source at [https://github.com/tancheng](https://github.com/tancheng). Let me know if you are interested!
 
 ![20241028](https://github.com/user-attachments/assets/305fa79d-73b9-4512-ab85-0cecc6153986)
 
