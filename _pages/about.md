@@ -16,7 +16,7 @@ I am currently a software engineer at Google working on Edge TPU machine learnin
 - Reconfigurable Accelerator
 - Network-on-Chip
 
-I am dedicated to democratizing domain-specific reconfigurable acceleration, aiming at a [push-button solution](https://github.com/tancheng/CGRA-Flow) towards compilation, architecture design, and synthesis. Most of my research works are open-source at [https://github.com/tancheng](https://github.com/tancheng). Let me know if you are interested!
+I am dedicated to democratizing domain-specific reconfigurable acceleration, aiming at a [push-button solution](https://github.com/tancheng/CGRA-Flow) towards compilation, system and architecture design, synthesis, and tape-out. Most of my research works are open-source at [https://github.com/tancheng](https://github.com/tancheng). I am open to research collaboration, let me know if you are interested!
 
 ![20241028](https://github.com/user-attachments/assets/305fa79d-73b9-4512-ab85-0cecc6153986)
 
@@ -71,6 +71,8 @@ Awards and Honors
 
 Talks
 ------
+
+- [Hardware/Software Co-Design for Efficient Acceleration on CGRAs](https://youtu.be/0cVDH28pHxA), Rutgers REFAI Seminar'25.
 - ICED: An Integrated CGRA Framework Enabling DFVS-Aware Acceleration, MICRO'24.
 - VecPAC: A Vectorizable and Precision-Aware CGRA, ICCAD'23.
 - ASAP: Automatic Synthesis of Area-Efficient and Precision-Aware CGRAs, ICS'22.
