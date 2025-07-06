@@ -9,7 +9,7 @@ redirect_from:
 
 *Google & ASU*
 
-I am currently a software engineer at Google working on Edge TPU machine learning compiler. I am also faculty in the School of Electrical, Computer and Energy Engineering at ASU. I received my Ph.D. from the National University of Singapore. I was employed by Microsoft, Pacific Northwest National Laboratory, and Cornell University, working on [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), respectively. I have published papers as first author across all the top-tier architecture conferences. My research interests include:
+I am currently a software engineer at Google working on Edge TPU machine learning compiler. I am also faculty in the School of Electrical, Computer and Energy Engineering at ASU. I received my Ph.D. from the National University of Singapore. I was employed by Microsoft, Pacific Northwest National Laboratory, and Cornell University, working on [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), respectively. I have published papers as the first author across most top-tier architecture conferences. My research interests include:
 - Machine Learning Compilation
 - Many-Core Architecture
 - Hardware/Software Co-Design
@@ -46,9 +46,9 @@ Academic Service
 ------
 - **Program Committee**: HPCA'25/'24, MICRO'25/'22, ICCAD'25/'24/'23/'22/'21, ISPASS'25, CODES+ISSS'24/'23/'22, ICCD'23/'22/'21, RAW'24, CGRA4HPC'25/'24/'23/'22, CFW'24.
 - **External Review Committee**: ISCA'24, MICRO'24, HPCA'22, ASPLOS'22.
-- **Artifact Evaluation Committee**: PPOPP'21, MICRO'21.
 - **Session Chair**: MICRO'24, ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
-- **Journal Reviewer**: CAL'25/'24, TC'22, TECS'23/'21, MicroSI'22/'21, TSUSC'21, TCAD'21, TPDS'23/'21/'20, TACO'25/'23/'21, TNNLS'21/'20, TVLSI'25/'24/'23/'22/'21/'19, PARCO'21/'20, MICPRO'25, JSA'23, JCSC'24, SUSCOM'22.
+- **Journal Reviewer**: TC'22, TECS'23/'21, TSUSC'21, TCAD'21, TPDS'23/'21/'20, TACO'25/'23/'21, TNNLS'21/'20, TVLSI'25/'24/'23/'22/'21/'19, TRETS'25, MicroSI'22/'21, CAL'25/'24, PARCO'21/'20, MICPRO'25, JSA'23, JCSC'24, SUSCOM'22.
+- **Artifact Evaluation Committee**: PPOPP'21, MICRO'21.
 - **Secondary Reviewer**: IPDPS'22, MLBench'22, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16.
 - **Student Volunteer**: ASP-DAC'14.
 
