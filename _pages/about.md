@@ -44,7 +44,7 @@ Open-Source Projects
 
 Academic Service
 ------
-- **Program Committee**: HPCA'25/'24, MICRO'25/'22, ICCAD'25/'24/'23/'22/'21, ISPASS'25, CODES+ISSS'24/'23/'22, ICCD'23/'22/'21, RAW'24, CGRA4HPC'25/'24/'23/'22, CFW'24.
+- **Program Committee**: HPCA'26/'25/'24, MICRO'25/'22, ICCAD'25/'24/'23/'22/'21, ISPASS'25, CODES+ISSS'24/'23/'22, ICCD'23/'22/'21, RAW'24, CGRA4HPC'25/'24/'23/'22, CFW'24.
 - **External Review Committee**: ISCA'24, MICRO'24, HPCA'22, ASPLOS'22.
 - **Session Chair**: MICRO'24, ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
 - **Journal Reviewer**: TC'22, TECS'23/'21, TSUSC'21, TCAD'21, TPDS'23/'21/'20, TACO'25/'23/'21, TNNLS'21/'20, TVLSI'25/'24/'23/'22/'21/'19, TRETS'25, MicroSI'22/'21, CAL'25/'24, PARCO'21/'20, MICPRO'25, JSA'23, JCSC'24, SUSCOM'22.
