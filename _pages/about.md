@@ -9,7 +9,7 @@ redirect_from:
 
 *Google & ASU*
 
-I am currently a software engineer at Google working on Edge TPU machine learning compiler. I am also faculty in the School of Electrical, Computer and Energy Engineering at ASU. I received my Ph.D. from the National University of Singapore. I was employed by Microsoft, Pacific Northwest National Laboratory, and Cornell University, working on [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), respectively. I have published papers as the first author across most top-tier architecture conferences. My research interests include:
+I am currently a software engineer at Google working on Edge TPU machine learning compiler. I am also affiliated with the School of Electrical, Computer and Energy Engineering at Arizona State University. I received my Ph.D. from the National University of Singapore. I was employed by Microsoft, Pacific Northwest National Laboratory, and Cornell University, working on [Brainwave Machine Learning Accelerator/Compiler](https://www.microsoft.com/en-us/research/project/project-brainwave), [HW/SW co-design](https://github.com/pnnl/OpenCGRA), and [Network-on-Chip](https://github.com/cornell-brg/pymtl3-net), respectively. I have published papers as the first author across most top-tier architecture conferences. My research interests include:
 - Machine Learning Compilation
 - Many-Core Architecture
 - Hardware/Software Co-Design
