@@ -6,6 +6,10 @@ author_profile: true
 
 ------
 
+**2026**
+
+- **Neura: A Unified Framework for Hierarchical and Adaptive CGRAs.** <u>Cheng Tan</u>, Miaomiao Jiang, Yuqi Sun, Ruihong Yin, Yanghui Ou, Qing Zhong, Lei Ju, Jeff (Jun) Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems. Pittsburgh, USA, March 2026.
+
 **2025**
 
 - **Rewire: Advancing CGRA Mapping Through a Consolidated Routing Paradigm.** Zhaoying Li, Dan Wu, Dhananjaya Wijerathne, Dan Chen, Huize Li, <u>Cheng Tan</u>, Tulika Mitra. 62nd ACM/IEEE Design Automation Conference (**DAC**), 2025.
