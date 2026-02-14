@@ -18,7 +18,8 @@ I am currently a software engineer at Google working on Edge TPU machine learnin
 
 I am dedicated to democratizing domain-specific reconfigurable acceleration, aiming at a [push-button solution](https://github.com/tancheng/CGRA-Flow) towards compilation, system and architecture design, synthesis, and tape-out. Most of my research works are open-source at [https://github.com/tancheng](https://github.com/tancheng). I am open to research collaboration, let me know if you are interested!
 
-![20241028](https://github.com/user-attachments/assets/305fa79d-73b9-4512-ab85-0cecc6153986)
+![Neura-Flow-demo_0214](https://github.com/user-attachments/assets/255edf5d-636f-417c-95e2-1ff107fd9df6)
+
 
 Selected Publications
 ------
