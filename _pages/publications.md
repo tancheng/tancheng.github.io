@@ -9,6 +9,8 @@ author_profile: true
 **2026**
 
 - **Neura: A Unified Framework for Hierarchical and Adaptive CGRAs.** <u>Cheng Tan</u>, Miaomiao Jiang, Yuqi Sun, Ruihong Yin, Yanghui Ou, Qing Zhong, Lei Ju, Jeff (Jun) Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). Pittsburgh, USA, March 2026.
+- **FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA.** Jiajun Qin, <u>Cheng Tan</u>, Ruihong Yin, Tianhua Xia, Sai Qian Zhang and Bei Yu. Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
+- **A Cluster-Based Distributed Memory Architecture for CGRAs.** Shangkun Li, <u>Cheng Tan</u>, Zeyu Li, Jinming Ge, Jiawei Liang, Hao Yang, Linfeng Du, Jiang Xu and Wei Zhang. Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
 
 **2025**
 
