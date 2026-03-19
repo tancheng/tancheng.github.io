@@ -23,7 +23,7 @@ I am dedicated to democratizing domain-specific reconfigurable acceleration, aim
 
 Selected Publications
 ------
-- **[ASPLOS]** [Neura: A Unified Framework for Hierarchical and Adaptive CGRAs.](https://www.asplos-conference.org/asplos2026/cfp/) <u>Cheng Tan</u>, Miaomiao Jiang, Yuqi Sun, Ruihong Yin, Yanghui Ou, Qing Zhong, Lei Ju, Jeff (Jun) Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems. Pittsburgh, USA, March 2026.
+- **[ASPLOS]** [Neura: A Unified Framework for Hierarchical and Adaptive CGRAs.](https://dl.acm.org/doi/abs/10.1145/3779212.3790193) <u>Cheng Tan</u>, Miaomiao Jiang, Yuqi Sun, Ruihong Yin, Yanghui Ou, Qing Zhong, Lei Ju, Jeff (Jun) Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems. Pittsburgh, USA, March 2026.
 - **[MICRO]** [ICED: An Integrated CGRA Framework Enabling DVFS-Aware Acceleration.](https://www.comp.nus.edu.sg/~tulika/MICRO24.pdf) <u>Cheng Tan</u>, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff (Jun) Zhang. IEEE/ACM International Symposium on Microarchitecture. Austin, TX, Nov 2024.
 - **[IEEE Micro]** [Bridging Python to Silicon: The SODA Toolchain.](https://ieeexplore.ieee.org/document/9786533) Nicolas Bohm Agostini, Serena Curzel, Jeff (Jun) Zhang, Ankur Limaye, <u>Cheng Tan</u>, Vinay Amatya, Marco Minutoli, Vito Giovanni Castellana, Joseph Manzano, David Brooks, Gu-Yeon Wei, Antonino Tumeo. IEEE Micro, 2022. <span style="color:red">**Best Paper Award**</span>.
 - **[HPCA]** [DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs.](https://ieeexplore.ieee.org/document/9773269) <u>Cheng Tan</u>, Nicolas Bohm Agostini, Tong Geng, Chenhao Xie, Jiajia Li, Ang Li, Kevin Barker, Antonino Tumeo. The 28th IEEE International Symposium on High-Performance Computer Architecture, Seoul, South Korea, February 2022.
@@ -47,7 +47,7 @@ Academic Service
 - **Program Committee**: HPCA'26/'25/'24, MICRO'25/'22, ICCAD'25/'24/'23/'22/'21, ISPASS'25, CODES+ISSS'24/'23/'22, ICCD'23/'22/'21, RAW'24, CGRA4HPC'26/'25/'24/'23/'22, CFW'24.
 - **External Review Committee**: ISCA'24, MICRO'24, HPCA'22, ASPLOS'22.
 - **Web Chair**: ISPASS'26.
-- **Session Chair**: MICRO'24, ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
+- **Session Chair**: ASPLOS'26, MICRO'24, ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
 - **Journal Reviewer**: TC'22, TECS'23/'21, TSUSC'21, TCAD'21, TPDS'23/'21/'20, TACO'25/'23/'21, TNNLS'21/'20, TVLSI'25/'24/'23/'22/'21/'19, TRETS'25, MicroSI'22/'21, CAL'25/'24, PARCO'21/'20, MICPRO'25, JSA'23, JCSC'24, SUSCOM'22.
 - **Artifact Evaluation Committee**: PPOPP'21, MICRO'21.
 - **Secondary Reviewer**: IPDPS'22, MLBench'22, SC'21, LCTES'21, ICS'20, FPT'18, ICPADS'18, DAC'17, ISCA'17, CASES'16, MICRO'16.
