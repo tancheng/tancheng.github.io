@@ -33,6 +33,7 @@ Selected Publications
 
 Open-Source Projects
 ------
+- [Dataflow](https://github.com/coredac/dataflow), an MLIR-based dataflow compiler.
 - [CGRA-Flow](https://github.com/tancheng/CGRA-Flow), an integrated framework for compilation, exploration, synthesis, and development of spatial accelerators.
 - [CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper), an LLVM pass that generates CDFG and maps them onto a customizable CGRA.
 - [MLIR-CGRA](https://github.com/tancheng/mlir-cgra), MLIR dialects/passes to enable the efficient acceleration of ML models on CGRAs.
@@ -44,7 +45,7 @@ Open-Source Projects
 
 Academic Service
 ------
-- **Program Committee**: HPCA'26/'25/'24, MICRO'25/'22, ICCAD'25/'24/'23/'22/'21, ISPASS'25, CODES+ISSS'24/'23/'22, ICCD'23/'22/'21, RAW'24, CGRA4HPC'26/'25/'24/'23/'22, CFW'24.
+- **Program Committee**: HPCA'26/'25/'24, MICRO'26/'25/'22, ICCAD'25/'24/'23/'22/'21, ISPASS'25, CODES+ISSS'24/'23/'22, ICCD'23/'22/'21, RAW'24, CGRA4HPC'26/'25/'24/'23/'22, CFW'24.
 - **External Review Committee**: ISCA'24, MICRO'24, HPCA'22, ASPLOS'22.
 - **Web Chair**: ISPASS'26.
 - **Session Chair**: ASPLOS'26, MICRO'24, ICCAD'23/'22/'21, ICCD'21/'19, ISQED'24.
@@ -73,6 +74,7 @@ Awards and Honors
 Talks
 ------
 
+- Neura: A Unified Framework for Hierarchical and Adaptive CGRAs, ASPLOS'26.
 - [Hardware/Software Co-Design for Efficient Acceleration on CGRAs](https://youtu.be/0cVDH28pHxA), Rutgers REFAI Seminar'25.
 - ICED: An Integrated CGRA Framework Enabling DFVS-Aware Acceleration, MICRO'24.
 - VecPAC: A Vectorizable and Precision-Aware CGRA, ICCAD'23.
