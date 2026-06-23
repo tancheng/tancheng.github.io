@@ -8,10 +8,11 @@ author_profile: true
 
 **2026**
 
+- **TileLoom: Automatic Dataflow Planning for Tile-Based Languages on Spatial Dataflow Accelerators.** Zhenyu Bai, Wei Li, Heru Wang, Pranav Dangi, <u>Cheng Tan</u>, Zhiqiang Zhang, Huiying Lan, Weng-Fai Wong, Tulika Mitra. The 20th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), Seattle, USA, July 2026.
 - **NEURA: A Unified and Retargetable Compilation Framework for Coarse-Grained Reconfigurable Architectures.** Shangkun LI, Jinming Ge, Diyuan Tao, Zeyu Li, Jiawei Liang, Linfeng Du, Xu Jiang, Wei Zhang, <u>Cheng Tan</u>. The 47th ACM SIGPLAN Conference on Programming Language Design and Implementation (**PLDI**), Boulder, Colorado, USA, June 2026.
 - **Neura: A Unified Framework for Hierarchical and Adaptive CGRAs.** <u>Cheng Tan</u>, Miaomiao Jiang, Yuqi Sun, Ruihong Yin, Yanghui Ou, Qing Zhong, Lei Ju, Jeff (Jun) Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). Pittsburgh, USA, March 2026.
-- **FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA.** Jiajun Qin, <u>Cheng Tan</u>, Ruihong Yin, Tianhua Xia, Sai Qian Zhang and Bei Yu. Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
-- **A Cluster-Based Distributed Memory Architecture for CGRAs.** Shangkun Li, <u>Cheng Tan</u>, Zeyu Li, Jinming Ge, Jiawei Liang, Hao Yang, Linfeng Du, Jiang Xu and Wei Zhang. Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
+- **FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA.** Jiajun Qin, <u>Cheng Tan</u>, Ruihong Yin, Tianhua Xia, Sai Qian Zhang, Bei Yu. Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
+- **A Cluster-Based Distributed Memory Architecture for CGRAs.** Shangkun Li, <u>Cheng Tan</u>, Zeyu Li, Jinming Ge, Jiawei Liang, Hao Yang, Linfeng Du, Jiang Xu, Wei Zhang. Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
 
 **2025**
 
