@@ -8,6 +8,10 @@ author_profile: true
 
 **2026**
 
+- **RAICHU: Rendering Acceleration Integrating CGRA arcHitecture for Unified VR Pipelines.** Yanzhou Tang, Haiyu Wang, <u>Cheng Tan</u>, Sai Qian Zhang. 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**). Athens, Greece, Nov 2026.
+- **Arborist: Algorithm-Hardware Co-Design for Fast and Efficient Motion Planning.** Yaotian Liu, Lingyi Huang, Zishen Wan, Bo Yuan, <u>Cheng Tan</u>, Jeff Zhang. 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**). Athens, Greece, Nov 2026.
+- **NUKE: An Automatic Pattern Fusion Framework for CGRAs using E-graphs.** Jiajun Qin, Yuhao Ji, Zhaotan Lin, <u>Cheng Tan</u>, Xinyun Zhang, Bei Yu. 2026 IEEE/ACM International Conference On Computer Aided Design (**ICCAD**), San Jose, California, USA, November 2026.
+- **ViViD: A Versatile CGRA-Based Framework for Visual Rendering Acceleration on VR Devices.** Yanzhou Tang, Tianhua Xia, <u>Cheng Tan</u>, Sai Qian Zhang. 2026 IEEE/ACM International Conference On Computer Aided Design (**ICCAD**), San Jose, California, USA, November 2026.
 - **TileLoom: Automatic Dataflow Planning for Tile-Based Languages on Spatial Dataflow Accelerators.** Zhenyu Bai, Wei Li, Heru Wang, Pranav Dangi, <u>Cheng Tan</u>, Zhiqiang Zhang, Huiying Lan, Weng-Fai Wong, Tulika Mitra. The 20th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), Seattle, USA, July 2026.
 - **MACO: A Multi-Agent LLM Framework for Automated CGRA Hardware/Software Co-Design.** Zesong Jiang, Yuqi Sun, qing zhong, Mahathi Krishna, Deepak pramod Patil, <u>Cheng Tan</u>, Jeff Zhang. The 2026 IEEE International Conference on LLM-Aided Design (**ICLAD**), Stanford, CA, USA, July 2026.
 - **NEURA: A Unified and Retargetable Compilation Framework for Coarse-Grained Reconfigurable Architectures.** Shangkun LI, Jinming Ge, Diyuan Tao, Zeyu Li, Jiawei Liang, Linfeng Du, Xu Jiang, Wei Zhang, <u>Cheng Tan</u>. The 47th ACM SIGPLAN Conference on Programming Language Design and Implementation (**PLDI**), Boulder, Colorado, USA, June 2026.
