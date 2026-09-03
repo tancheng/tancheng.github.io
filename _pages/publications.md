@@ -8,6 +8,7 @@ author_profile: true
 
 **2026**
 
+- **CMD: An Integrated CGRA Framework with Cluster-Based Distributed Memory Design.** Shangkun Li, <u>Cheng Tan</u>, Zeyu Li, Jinming Ge, Jiawei Liang, Hao Yang, Linfeng Du, Jiang Xu, Wei Zhang. The 44th IEEE International Conference on Computer Design (**ICCD**), Hong Kong, China, November 2026.
 - **RAICHU: Rendering Acceleration Integrating CGRA arcHitecture for Unified VR Pipelines.** Yanzhou Tang, Haiyu Wang, <u>Cheng Tan</u>, Sai Qian Zhang. 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**). Athens, Greece, Nov 2026.
 - **Arborist: Algorithm-Hardware Co-Design for Fast and Efficient Motion Planning.** Yaotian Liu, Lingyi Huang, Zishen Wan, Bo Yuan, <u>Cheng Tan</u>, Jeff Zhang. 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**). Athens, Greece, Nov 2026.
 - **NUKE: An Automatic Pattern Fusion Framework for CGRAs using E-graphs.** Jiajun Qin, Yuhao Ji, Zhaotan Lin, <u>Cheng Tan</u>, Xinyun Zhang, Bei Yu. 2026 IEEE/ACM International Conference On Computer Aided Design (**ICCAD**), San Jose, California, USA, November 2026.
