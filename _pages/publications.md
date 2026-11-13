@@ -6,6 +6,11 @@ author_profile: true
 
 ------
 
+**2027**
+
+- **Zeonica: A Unified Cycle-Level Simulation Substrate for Spatial Architectures.** Yijia Shi, Bohan Cui, Yijia Shi, Bohan Cui, Shangkun Li, Yuchao Su, Shiran Guo, Ying Li, <u>Cheng Tan</u>, Wei Zhang, Yifan Sun. The 33rd IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Salt Lake City, Utah, USA, March 2027.
+- **Aether: An Agile Framework for CGRA Customization via Coordinated Hierarchical Fusion.** Jiajun Qin, Zhaotan Lin, Shangkun Li, <u>Cheng Tan</u>, Wei Zhang, Bei Yu. The 33rd IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Salt Lake City, Utah, USA, March 2027.
+
 **2026**
 
 - **CMD: An Integrated CGRA Framework with Cluster-Based Distributed Memory Design.** Shangkun Li, <u>Cheng Tan</u>, Zeyu Li, Jinming Ge, Jiawei Liang, Hao Yang, Linfeng Du, Jiang Xu, Wei Zhang. The 44th IEEE International Conference on Computer Design (**ICCD**), Hong Kong, China, November 2026.
